@@ -2,6 +2,8 @@
 [![npm](https://img.shields.io/npm/v/npm.svg)]()
 [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
 
+Estudando css do tema.
+
 Welcome to the [Manila](http://manila.wphotelier.com/) GitHub repository. Manila is a free WordPress blank content theme for [WP Hotelier plugin](https://wphotelier.com). Developed to offer a free solution for the [WP Hotelier plugin](https://wphotelier.com). The documentation for the [WP Hotelier plugin](https://wphotelier.com) can be found on [WPHotelier.com](https://wphotelier.com), here you can browse the source of the project, find and discuss open issues.
 
 ## Installation ##
