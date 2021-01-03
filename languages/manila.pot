@@ -50,7 +50,7 @@ msgstr ""
 
 #: ../hotelier/global/datepicker.php:23
 msgid "Pick your dates"
-msgstr ""
+msgstr "Escolha as datas"
 
 #: ../hotelier/global/datepicker.php:29
 msgid "Book Now"
